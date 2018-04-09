@@ -1,0 +1,5 @@
+#include "gui\includes.cpp"
+#include "Shipwrecks\config.cpp"
+#include "ServerRestartEvent\config.cpp"
+#include "navigation\config.cpp"
+#include "weaponshops\config.cpp"
