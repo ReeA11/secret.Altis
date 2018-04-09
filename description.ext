@@ -2,7 +2,7 @@ author = "Tonic and others";
 onLoadName = "Verum RP";
 onLoadMission = "На основе Tonic's AltisLife RPG";
 LoadScreen  = "\union_config\extremo_logo.paa";
-
+//arra
 joinUnassigned = 1;
 saving = 0;
 disabledAI = 1;
