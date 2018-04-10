@@ -1,5 +1,0 @@
-#include "gui\functions\functions.cpp"
-#include "Shipwrecks\functions.cpp"
-#include "ServerRestartEvent\functions.cpp"
-#include "navigation\functions.cpp"
-#include "weaponshops\functions.cpp"
